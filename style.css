@@ -6,6 +6,7 @@ background: #ca7272;
 }
 p {
   font-family: sans-serif
+   font-size: 15px;
 }
 iframe{
   display: block;
